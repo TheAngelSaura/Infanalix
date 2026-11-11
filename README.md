@@ -1,0 +1,2 @@
+# Infanalix
+Juego RPG Pixelart.
